@@ -1,0 +1,2 @@
+# hui-shell
+Solr REPL
